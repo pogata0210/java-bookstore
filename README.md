@@ -66,3 +66,4 @@ Expose at least the following actuator endpoints to help with system management
 * /metrics
 
 Note that several obvious end points are not included in the required list. Finishing out the list of useful end points is the stretch goal. You are to decide what those end points are!
+Sprint
